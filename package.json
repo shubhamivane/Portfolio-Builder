@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-builder",
+  "version": "1.0.0",
+  "description": "Application to build portfolios",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamivane/Portfolio-Builder.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "Builder"
+  ],
+  "author": "Shubham Ivane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamivane/Portfolio-Builder/issues"
+  },
+  "homepage": "https://github.com/shubhamivane/Portfolio-Builder#readme"
+}
